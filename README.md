@@ -5,6 +5,7 @@
 
 团队名称：优生801
 
-Rank：14、
+Rank：14
 
-文档：见项目中  算法说明文档.pdf
+文档：见项目中  [算法说明文档.pdf](https://github.com/WeavingWong/DigiX_HuaWei_Population_Age_Attribution_Predict/blob/master/DigiX%E7%AE%97%E6%B3%95%E5%AE%9E%E7%8E%B0%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.pdf)
+
