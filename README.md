@@ -1,0 +1,2 @@
+# DigiX_HuaWei_Population_Age_Attribution_Predict
+华为_DigiX_算法精英大赛——人口年龄属性预测_ Rank14 方案
