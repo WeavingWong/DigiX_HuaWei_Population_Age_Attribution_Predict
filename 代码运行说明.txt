@@ -1,0 +1,16 @@
+## 运行方法
+
+（1）先运行data_analysis数据预处理文件,无运行顺序；
+
+（2）依次运行gen_features文件夹下的特征文件,无运行顺序；
+
+（3）依次运行lgb_model文件夹下的模型文件,无运行顺序；
+　　　
+
+（4）依次运行nn_model文件夹下的模型文件,无运行顺序；
+　　　
+（5）依照csv_to_csr，predict_output_full，predict_output_usage，lgb_model_stacking_full_v1，lgb_model_stacking_usage_v1
+顺序运行model_stacking文件夹下的模型文件；
+
+
+（6）运行submit目录下的文件，生成最终提交文件
